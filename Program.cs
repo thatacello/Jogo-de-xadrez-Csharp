@@ -1,4 +1,6 @@
 ﻿using System;
+using tabuleiro;
+using xadrez;
 
 namespace Jogo_de_xadrez
 {
@@ -6,7 +8,11 @@ namespace Jogo_de_xadrez
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Tabuleiro tab = new Tabuleiro(8, 8);
+
+            tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
+
+            Tela.imprimirTabuleiro(tab);
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\bin\Debug\netcoreapp3.1\Jogo de xadrez.exe
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\bin\Debug\netcoreapp3.1\Jogo de xadrez.deps.json
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\bin\Debug\netcoreapp3.1\Jogo de xadrez.runtimeconfig.json
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\bin\Debug\netcoreapp3.1\Jogo de xadrez.runtimeconfig.dev.json
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\bin\Debug\netcoreapp3.1\Jogo de xadrez.dll
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\bin\Debug\netcoreapp3.1\Jogo de xadrez.pdb
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.csprojAssemblyReference.cache
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.AssemblyInfoInputs.cache
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.AssemblyInfo.cs
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.csproj.CoreCompileInputs.cache
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.dll
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.pdb
+C:\Users\tsci\My Private Documents\Estudos\Udemy\Csharp\Jogo de xadrez\obj\Debug\netcoreapp3.1\Jogo de xadrez.genruntimeconfig.cache
